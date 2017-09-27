@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/build
+/captures
+.externalNativeBuild
+VideoUi
+/VideoUi
+vitamioRecorderLibrary
+.idea/inspectionProfiles/
+app/app-release.apk
+
